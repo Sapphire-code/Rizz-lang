@@ -2,7 +2,7 @@
 
 ### Usage:
 To use the programming language, first install ![Python](https://www.python.org/)
-After installing python, make sure it is added to PATH on your device, otherwise using this language will become much harder.
+;after installing python, make sure it is added to PATH on your device, otherwise using this language will become much harder.
 
 Once you've setup everything, go ahead and clone the GitHub repository.
 
